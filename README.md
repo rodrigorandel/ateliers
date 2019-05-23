@@ -1,2 +1,2 @@
-# ateliers
-Repository to save ateliers
+# Ateliers
+Repository to store workshops
